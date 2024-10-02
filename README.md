@@ -65,7 +65,7 @@ The project includes various visualizations to illustrate the findings:
   <img src="/images/articles_over_time_cleaned.png" alt="Sentiment Trends" width="600"/>
 </p>
 <p align="center">
-  <img src="/images/wordcloud_headlines_cleaned.png" alt="Sentiment Trends" width="600"/>
+  <img src="/images/wordcloud.png" alt="Sentiment Trends" width="600"/>
 </p>
 <p align="center">
   <img src="/images/sentiment_trends.png" alt="Sentiment Trends" width="600"/>
